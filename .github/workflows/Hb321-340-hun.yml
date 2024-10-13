@@ -37,17 +37,17 @@ jobs:
       - name: Run hb324 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_cSHqHwkSKjAknaGNyxAfPebWqPxG/srtERckanc
       - name: Run hb0205 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0FDmxFMhG6W3v8xgyYjary1hk84B/g4K9KFZFkO
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8dr6PZF3U7cl2YR62e6upDMsbSRY/0Oe8unthhp
       - name: Run hb0325 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0FDmxFMhG6W3v8xgyYjary1hk84B/g4K9KFZFkO
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8dr6PZF3U7cl2YR62e6upDMsbSRY/0Oe8unthhp
       - name: hb326 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0mKWDZqC86pJnfXVN2hcWqDyO4JI/9aYw3eJMcB
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_S9AKzeog9hiwZIpeJIlftPYPDtqO/cNUxdASp0v 
       - name: hb326 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0mKWDZqC86pJnfXVN2hcWqDyO4JI/9aYw3eJMcB
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_S9AKzeog9hiwZIpeJIlftPYPDtqO/cNUxdASp0v 
       - name: hb327 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_cwaEigOn7Gnrx9WEIaFekjIAODsQ/fUztJzw3zE 
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RMgDNu7xZf7QZ9M4A3exZyWzeawf/cAadM4nt9Y  
       - name: hb327 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_cwaEigOn7Gnrx9WEIaFekjIAODsQ/fUztJzw3zE 
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RMgDNu7xZf7QZ9M4A3exZyWzeawf/cAadM4nt9Y  
       - name: Run hb328 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_m1SZSqi2vB5YI0Img2Nx8pAyNuGb/JRWftTB6Bm
       - name: Run hb328 a one-line script
